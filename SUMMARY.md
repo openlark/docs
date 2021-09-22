@@ -1,6 +1,6 @@
 # Table of contents
 
-* [入门](README.md)
+* [OpenLark](README.md)
 
 ## 即时通讯 <a id="messenger"></a>
 
